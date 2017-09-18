@@ -1,4 +1,4 @@
 language: ruby
 script:
-	- rails db:migrate
-	- rails test
+- rails db:migrate
+- rails test
